@@ -1,0 +1,374 @@
+[
+    {
+        "name": "Hacker News",
+        "url": "https://news.ycombinator.com/rss",
+        "topics": ["Tech", "Programming", "Startups"],
+        "date_added": "2023-10-27"
+    },
+    {
+        "name": "BBC World News",
+        "url": "http://feeds.bbci.co.uk/news/world/rss.xml",
+        "topics": ["Global", "News", "Politics"],
+        "date_added": "2023-10-27"
+    },
+    {
+        "name": "New York Times World",
+        "url": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+        "topics": ["Global", "News", "USA"],
+        "date_added": "2023-10-27"
+    },
+    {
+        "name": "The Verge",
+        "url": "https://www.theverge.com/rss/index.xml",
+        "topics": ["Tech", "Gadgets", "Culture"],
+        "date_added": "2023-10-27"
+    },
+    {
+        "name": "NASA Breaking News",
+        "url": "https://www.nasa.gov/rss/dyn/breaking_news.rss",
+        "topics": ["Science", "Space", "Tech"],
+        "date_added": "2023-10-27"
+    },
+    {
+        "name": "Real Python",
+        "url": "https://realpython.com/atom.xml",
+        "topics": ["Tech", "Programming", "Python"],
+        "date_added": "2023-10-27"
+    },
+    {
+        "name": "Wired",
+        "url": "https://www.wired.com/feed/rss",
+        "topics": ["Tech", "Culture", "Security"],
+        "date_added": "2023-10-27"
+    },
+    {
+        "name": "Al Jazeera English",
+        "url": "https://www.aljazeera.com/xml/rss/all.xml",
+        "topics": ["Global", "News", "Middle East"],
+        "date_added": "2023-10-27"
+    },
+    {
+        "name": "Politico",
+        "url": "https://www.politico.com/rss/politics08.xml",
+        "topics": ["Politics", "USA"],
+        "date_added": "2023-10-27"
+    },
+    {
+        "name": "TechCrunch",
+        "url": "https://techcrunch.com/feed/",
+        "topics": ["Tech", "Startups", "Business"],
+        "date_added": "2023-10-27"
+    },
+    {
+        "name": "Science Daily",
+        "url": "https://www.sciencedaily.com/rss/top_news.xml",
+        "topics": ["Science", "Research", "Health"],
+        "date_added": "2023-10-27"
+    },
+    {
+        "name": "Wall Street Journal World",
+        "url": "https://feeds.a.dj.com/rss/RSSWorldNews.xml",
+        "topics": ["Business", "Finance", "Global"],
+        "date_added": "2023-10-27"
+    },
+    {
+        "name": "Ars Technica",
+        "url": "http://feeds.arstechnica.com/arstechnica/index",
+        "topics": ["Tech", "Science", "Policy"],
+        "date_added": "2023-10-27"
+    },
+    {
+        "name": "NPR Politics",
+        "url": "https://feeds.npr.org/510318/podcast.xml",
+        "topics": ["Politics", "USA", "Podcast"],
+        "date_added": "2023-10-27"
+    },
+    {
+        "name": "MIT Technology Review",
+        "url": "https://www.technologyreview.com/feed/",
+        "topics": ["Tech", "Science", "Future"],
+        "date_added": "2023-10-27"
+    },
+    {
+        "name": "Fox News Politics",
+        "url": "https://moxie.foxnews.com/google-publisher/politics.xml",
+        "topics": ["Politics", "USA", "Conservative"],
+        "date_added": "2023-10-27"
+    },
+    {
+        "name": "National Review",
+        "url": "https://www.nationalreview.com/feed/",
+        "topics": ["Politics", "Opinion", "Conservative"],
+        "date_added": "2023-10-27"
+    },
+    {
+        "name": "The Daily Wire",
+        "url": "https://www.dailywire.com/rss.xml",
+        "topics": ["Politics", "Culture", "Conservative"],
+        "date_added": "2023-10-27"
+    },
+    {
+        "name": "Washington Examiner",
+        "url": "https://www.washingtonexaminer.com/feed/",
+        "topics": ["Politics", "USA", "Conservative"],
+        "date_added": "2023-10-27"
+    },
+    {
+        "name": "ESPN Top Headlines",
+        "url": "https://www.espn.com/espn/rss/news",
+        "topics": ["Sports", "News"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Sports Illustrated",
+        "url": "https://www.si.com/rss/si_topstories.rss",
+        "topics": ["Sports", "News"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "The Athletic",
+        "url": "https://theathletic.com/feed/",
+        "topics": ["Sports", "Analysis"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "NPR Music",
+        "url": "https://feeds.npr.org/1039/rss.xml",
+        "topics": ["Music", "Arts", "Culture"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Pitchfork",
+        "url": "https://pitchfork.com/rss/reviews/albums/",
+        "topics": ["Music", "Reviews", "Culture"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Rolling Stone",
+        "url": "https://www.rollingstone.com/feed/",
+        "topics": ["Music", "Culture", "Entertainment"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Variety",
+        "url": "https://variety.com/feed/",
+        "topics": ["Entertainment", "Film", "TV"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Hollywood Reporter",
+        "url": "https://www.hollywoodreporter.com/feed/",
+        "topics": ["Entertainment", "Film", "TV"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "IndieWire",
+        "url": "https://www.indiewire.com/feed/",
+        "topics": ["Film", "TV", "Entertainment"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Artnet News",
+        "url": "https://news.artnet.com/feed",
+        "topics": ["Art", "Culture", "Museums"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Artforum",
+        "url": "https://www.artforum.com/rss.xml",
+        "topics": ["Art", "Culture", "Criticism"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Hyperallergic",
+        "url": "https://hyperallergic.com/feed/",
+        "topics": ["Art", "Culture", "Politics"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "The Guardian Books",
+        "url": "https://www.theguardian.com/books/rss",
+        "topics": ["Books", "Literature", "Reviews"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Literary Hub",
+        "url": "https://lithub.com/feed/",
+        "topics": ["Books", "Literature", "Culture"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Book Riot",
+        "url": "https://bookriot.com/feed/",
+        "topics": ["Books", "Literature", "Reviews"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Eater",
+        "url": "https://www.eater.com/rss/index.xml",
+        "topics": ["Food", "Restaurants", "Culture"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Serious Eats",
+        "url": "https://www.seriouseats.com/feed/",
+        "topics": ["Food", "Cooking", "Recipes"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Bon Appétit",
+        "url": "https://www.bonappetit.com/feed/rss",
+        "topics": ["Food", "Cooking", "Culture"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Travel + Leisure",
+        "url": "https://www.travelandleisure.com/syndication/rss",
+        "topics": ["Travel", "Lifestyle"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Conde Nast Traveler",
+        "url": "https://www.cntraveler.com/feed/rss",
+        "topics": ["Travel", "Lifestyle", "Culture"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Outside Magazine",
+        "url": "https://www.outsideonline.com/feed/",
+        "topics": ["Outdoors", "Adventure", "Sports"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Architectural Digest",
+        "url": "https://www.architecturaldigest.com/feed/rss",
+        "topics": ["Architecture", "Design", "Home"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Dezeen",
+        "url": "https://www.dezeen.com/feed/",
+        "topics": ["Architecture", "Design", "Interiors"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Core77",
+        "url": "https://www.core77.com/rss/object.rss",
+        "topics": ["Design", "Industrial", "Innovation"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "The New Yorker",
+        "url": "https://www.newyorker.com/feed/news",
+        "topics": ["News", "Culture", "Opinion"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "The Atlantic",
+        "url": "https://www.theatlantic.com/feed/all/",
+        "topics": ["News", "Opinion", "Culture"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Vox",
+        "url": "https://www.vox.com/rss/index.xml",
+        "topics": ["News", "Explainers", "Policy"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "ProPublica",
+        "url": "https://www.propublica.org/feeds/propublica/main",
+        "topics": ["Investigative", "News", "Accountability"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Reuters",
+        "url": "https://www.reutersagency.com/feed/",
+        "topics": ["News", "Global", "Business"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Associated Press",
+        "url": "https://apnews.com/apf-topnews",
+        "topics": ["News", "Global"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "The Economist",
+        "url": "https://www.economist.com/the-world-this-week/rss.xml",
+        "topics": ["News", "Business", "Global"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Foreign Policy",
+        "url": "https://foreignpolicy.com/feed/",
+        "topics": ["Global", "Politics", "Analysis"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "The Guardian Environment",
+        "url": "https://www.theguardian.com/environment/rss",
+        "topics": ["Environment", "Climate", "Science"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Grist",
+        "url": "https://grist.org/feed/",
+        "topics": ["Environment", "Climate", "Solutions"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Yale Environment 360",
+        "url": "https://e360.yale.edu/feed",
+        "topics": ["Environment", "Climate", "Science"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "WebMD Health News",
+        "url": "https://rssfeeds.webmd.com/rss/rss.aspx?RSSSource=RSS_PUBLIC",
+        "topics": ["Health", "Medicine", "Wellness"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Mayo Clinic News",
+        "url": "https://newsnetwork.mayoclinic.org/feed/",
+        "topics": ["Health", "Medicine", "Research"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "STAT News",
+        "url": "https://www.statnews.com/feed/",
+        "topics": ["Health", "Medicine", "Biotech"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Psychology Today",
+        "url": "https://www.psychologytoday.com/us/front/feed",
+        "topics": ["Psychology", "Mental Health", "Wellness"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Fast Company",
+        "url": "https://www.fastcompany.com/latest/rss",
+        "topics": ["Business", "Innovation", "Design"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Harvard Business Review",
+        "url": "https://hbr.org/feed",
+        "topics": ["Business", "Management", "Leadership"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Bloomberg Markets",
+        "url": "https://feeds.bloomberg.com/markets/news.rss",
+        "topics": ["Finance", "Markets", "Business"],
+        "date_added": "2024-12-03"
+    },
+    {
+        "name": "Financial Times",
+        "url": "https://www.ft.com/?format=rss",
+        "topics": ["Finance", "Business", "Global"],
+        "date_added": "2024-12-03"
+    }
+]
