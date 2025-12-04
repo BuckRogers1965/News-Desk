@@ -40,7 +40,7 @@ pip install tkinter feedparser google-generativeai requests
 
 ### API Keys
 - **Google Gemini API key** (free tier: 15 requests/min, 1500/day)
-  - Get yours at: https://makersuite.google.com/app/apikey
+  - Get yours at: https://aistudio.google.com/app/api-keys
   - Set environment variable: `export GEMINI_API_KEY="your-key-here"`
 
 ### Optional
